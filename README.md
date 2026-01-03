@@ -2,3 +2,5 @@
 
 **Codefly** is an AI peer programming tool that helps you write code faster and smarter.
 # codefly
+
+Copy from [GitHub Copilot]
